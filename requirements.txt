@@ -54,6 +54,7 @@ scipy==1.16.2
 sentencepiece==0.2.1
 setuptools==80.9.0
 six==1.17.0
+streamlit
 spandrel==0.4.1
 SQLAlchemy==2.0.44
 sympy==1.14.0
