@@ -1,0 +1,2 @@
+# minutasGenerator
+Generador de minutas
