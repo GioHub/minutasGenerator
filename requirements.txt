@@ -44,7 +44,6 @@ pydantic==2.12.3
 pydantic-settings==2.11.0
 pydantic_core==2.41.4
 pyparsing==3.2.5
-python-3.12
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 PyYAML==6.0.3
