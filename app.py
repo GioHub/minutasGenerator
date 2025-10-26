@@ -1,4 +1,13 @@
+# --- Fix para entorno Streamlit Cloud con Python 3.13 ---
+import sys, types
+sys.modules['imghdr'] = types.ModuleType('imghdr')
+
 import streamlit as st
+from datetime import datetime
+import re
+
+
+# import streamlit as st
 from openai import OpenAI
 import os
 
